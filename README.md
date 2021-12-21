@@ -1,6 +1,8 @@
 # Introducción
 
-![total users](https://badges.reactnative.guide/api?type=users) ![total page views](https://badges.reactnative.guide/api?type=pageviews)![](cover.jpg)
+![total users](https://badges.reactnative.guide/api?type=users) ![total page views](https://badges.reactnative.guide/api?type=pageviews)
+
+![](cover.jpg)
 
 [https://www.reactnative.guide](https://www.reactnative.guide)
 

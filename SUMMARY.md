@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introducción](README.md)
-* [React Native Internals 📡](3-react-native-internals/3.1-react-native-internals.md)
+* [El interior de React Native 📡](3-react-native-internals/3.1-react-native-internals.md)
 * [Setting up the project 🌈](4-setting-up-the-project/4.1-installing-react-native.md)
 * [See it in action! 🎬](see-it-in-action.md)
 * [Project Structure 🏢](5-project-structure-and-start-building-some-app/5.0-intro.md)
